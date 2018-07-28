@@ -3,4 +3,4 @@ Sequence-to-sequence models are deep learning models that have achieved a lot of
 
 I found, however, that understanding the model well enough to implement it requires unraveling a series of concepts that build on top of each other. I thought that a bunch of these ideas would be more accessible if expressed visually. A sequence-to-sequence model is a model that takes a sequence of items (words, letters, features of an images…etc) and outputs another sequence of items. A trained model would work like this:
 
-[![hmmmm](images/rnn.png)]("https://www.youtube.com/watch?v=ftA_xYTZPAE")
+[![hmmmm](images/rnn.png)](https://www.youtube.com/watch?v=ftA_xYTZPAE)
